@@ -22,3 +22,5 @@ Ferramentas e linguagens:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
+
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattnicee7&show_icons=true&theme=radical)
