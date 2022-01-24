@@ -11,7 +11,7 @@ public class User {
 public class Application {
   
   public static void main(String[] args) {
-    User me = new User("Matheus", 17, "maTT#2830");
+    User me = new User("Matheus", 18, "maTT#2830");
   }
 
 }
