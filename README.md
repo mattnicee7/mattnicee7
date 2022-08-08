@@ -22,4 +22,6 @@ How to reach me:
 * E-mail: mattxnice@gmail.com.
 * Discord: maTT#2830.
 
+<br>
+
 ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattnicee7&show_icons=true&theme=radical)
