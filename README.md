@@ -17,7 +17,7 @@ public class Application {
 }
 ```
 
-Meios de contato:
+How to reach me:
 
 * E-mail: mattxnice@gmail.com.
 * Discord: maTT#2830.
