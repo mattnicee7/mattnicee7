@@ -24,4 +24,6 @@ How to reach me:
 
 <br>
 
+![](https://komarev.com/ghpvc/?username=mattnicee7)
+
 ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattnicee7&show_icons=true&theme=radical)
