@@ -22,6 +22,8 @@ How to reach me:
 * E-mail: mattxnice@gmail.com.
 * Discord: maTT#2830.
 
+-> Ask me about Java.
+
 <br>
 
 ![](https://komarev.com/ghpvc/?username=mattnicee7)
