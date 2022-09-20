@@ -17,15 +17,19 @@ public class Application {
 }
 ```
 
+<br>
+
+![](https://komarev.com/ghpvc/?username=mattnicee7)
+
 How to reach me:
 
 * E-mail: mattxnice@gmail.com.
 * Discord: maTT#2830.
 
--> Ask me about Java.
-
+<br>
 <br>
 
-![](https://komarev.com/ghpvc/?username=mattnicee7)
-
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattnicee7&show_icons=true&theme=radical)
+<div class="images" style="display: flex; justify-content: space-between">
+    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=mattnicee7&show_icons=true&theme=radical">
+    <img width="47%" style="margin-top: -1px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattnicee7&layout=compact&langs_count=7&theme=dracula"/>
+</div>
