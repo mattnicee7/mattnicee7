@@ -30,6 +30,6 @@ How to reach me:
 <br>
 
 <div class="images" style="display: flex; justify-content: space-between">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=mattnicee7&show_icons=true&theme=radical">
-    <img width="47%" style="margin-top: -1px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattnicee7&layout=compact&langs_count=7&theme=dracula"/>
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=mattnicee7&show_icons=true&theme=radical">
+    <img width="40%" style="margin-top: -1px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattnicee7&layout=compact&langs_count=7&theme=dracula"/>
 </div>
