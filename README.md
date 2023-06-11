@@ -1,21 +1,3 @@
-```java
-@AllArgsConstructor
-public class User {
-  
-  private String name;
-  private Integer age;
-  private Job job;
-
-}
-
-public class Application {
-  
-  public static void main(String[] args) {
-    User me = new User("Matheus", 19, null);
-  }
-
-}
-```
 
 <br>
 
